@@ -13,6 +13,7 @@ lib/__pycache__
 model/VI_Net_geodino.py
 model/VI_Net.py
 model/SIM_Net.py
+model/module.py
 model/__pycache__
 provider/dataset.py
 provider/__pycache__
