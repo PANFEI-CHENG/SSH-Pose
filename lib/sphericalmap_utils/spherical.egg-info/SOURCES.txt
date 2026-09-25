@@ -1,0 +1,8 @@
+setup.py
+/home/cpf/algorithm/SecondPose_New/lib/sphericalmap_utils/_ext_src/src/bindings.cpp
+/home/cpf/algorithm/SecondPose_New/lib/sphericalmap_utils/_ext_src/src/sphericalmap.cpp
+/home/cpf/algorithm/SecondPose_New/lib/sphericalmap_utils/_ext_src/src/sphericalmap_cuda.cu
+spherical.egg-info/PKG-INFO
+spherical.egg-info/SOURCES.txt
+spherical.egg-info/dependency_links.txt
+spherical.egg-info/top_level.txt

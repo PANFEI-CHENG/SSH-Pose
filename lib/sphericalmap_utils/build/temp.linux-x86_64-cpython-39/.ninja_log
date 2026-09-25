@@ -1,0 +1,4 @@
+# ninja log v5
+7	21586	1734882198	/home/cpf/algorithm/SecondPose_New/lib/sphericalmap_utils/build/temp.linux-x86_64-cpython-39/home/cpf/algorithm/SecondPose_New/lib/sphericalmap_utils/_ext_src/src/sphericalmap_cuda.o	7bacf06cb4f524ae
+6	22831	1734882199	/home/cpf/algorithm/SecondPose_New/lib/sphericalmap_utils/build/temp.linux-x86_64-cpython-39/home/cpf/algorithm/SecondPose_New/lib/sphericalmap_utils/_ext_src/src/sphericalmap.o	90e53302f4676a03
+0	23526	1734882200	/home/cpf/algorithm/SecondPose_New/lib/sphericalmap_utils/build/temp.linux-x86_64-cpython-39/home/cpf/algorithm/SecondPose_New/lib/sphericalmap_utils/_ext_src/src/bindings.o	9d96d0ab01e528d7

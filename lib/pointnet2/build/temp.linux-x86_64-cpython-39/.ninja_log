@@ -1,0 +1,10 @@
+# ninja log v5
+0	22274	1734882154	/home/cpf/algorithm/SecondPose_New/lib/pointnet2/build/temp.linux-x86_64-cpython-39/_ext_src/src/group_points_gpu.o	859eceee357a4741
+1	22361	1734882154	/home/cpf/algorithm/SecondPose_New/lib/pointnet2/build/temp.linux-x86_64-cpython-39/_ext_src/src/ball_query_gpu.o	1ff6f7e7358879b7
+3	22470	1734882154	/home/cpf/algorithm/SecondPose_New/lib/pointnet2/build/temp.linux-x86_64-cpython-39/_ext_src/src/sampling_gpu.o	d69e59f36b3ed07e
+2	23726	1734882156	/home/cpf/algorithm/SecondPose_New/lib/pointnet2/build/temp.linux-x86_64-cpython-39/_ext_src/src/interpolate_gpu.o	abf9956d1a5b042a
+0	25695	1734882158	/home/cpf/algorithm/SecondPose_New/lib/pointnet2/build/temp.linux-x86_64-cpython-39/_ext_src/src/ball_query.o	b23cf59ab76a9d1f
+1	25922	1734882158	/home/cpf/algorithm/SecondPose_New/lib/pointnet2/build/temp.linux-x86_64-cpython-39/_ext_src/src/group_points.o	90be3fdea04017c3
+2	25946	1734882158	/home/cpf/algorithm/SecondPose_New/lib/pointnet2/build/temp.linux-x86_64-cpython-39/_ext_src/src/sampling.o	83ed05d815bf362c
+2	26041	1734882158	/home/cpf/algorithm/SecondPose_New/lib/pointnet2/build/temp.linux-x86_64-cpython-39/_ext_src/src/interpolate.o	1f346da1f49962bf
+1	26588	1734882159	/home/cpf/algorithm/SecondPose_New/lib/pointnet2/build/temp.linux-x86_64-cpython-39/_ext_src/src/bindings.o	7e5ca37ce696a95
