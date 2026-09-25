@@ -20,3 +20,4 @@ provider/__pycache__
 utils/solver_category.py
 utils/solver.py
 utils/__pycache__
+.gitignore
